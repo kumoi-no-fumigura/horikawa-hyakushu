@@ -34,10 +34,10 @@ horikawa-hyakushu-000083	83			春日野の下もえわたる草の上につれ�
 horikawa-hyakushu-000084	84			春山の木下陰にむらきゆる雪こそこそのかたみ也けれ	
 horikawa-hyakushu-000085	85			山里のかきねに残る白雪は草のもゆるにきえやはつらん	
 horikawa-hyakushu-000086	86			めつらしきてらゐかうへにはかひせぬ片葉か下のこそのふる雪	
-horikawa-hyakushu-000087	88			立かへる春のしるしはかすみしく小初瀬山の雪のむらきえ	
-horikawa-hyakushu-000088	89			あら玉の春たつ風のしるけれはまた初雪のこゝち社すれ	
-horikawa-hyakushu-000089	90			むれてくる大宮人のふる袖に春さへはれすかゝるあは雪	
-horikawa-hyakushu-000090	87			春きては花ともみよと片岡の松のうは葉にあは雪そふる	
+horikawa-hyakushu-000087	87			立かへる春のしるしはかすみしく小初瀬山の雪のむらきえ	
+horikawa-hyakushu-000088	88			あら玉の春たつ風のしるけれはまた初雪のこゝち社すれ	
+horikawa-hyakushu-000089	89			むれてくる大宮人のふる袖に春さへはれすかゝるあは雪	
+horikawa-hyakushu-000090	90			春きては花ともみよと片岡の松のうは葉にあは雪そふる	
 horikawa-hyakushu-000091	91			春の日のうらゝにてらす垣ねには友まん宵そきえかてにする	
 horikawa-hyakushu-000092	92			春風に谷の氷はとくれともきえ残りたるみねのしら雪	
 horikawa-hyakushu-000093	93			むらさえし雪もほかにはみえなくにしりへの岡は猶そ残れる	

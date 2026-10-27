@@ -23,8 +23,8 @@ horikawa-hyakushu-000272	272			杜若おなし沢へに生なからなにをけ�
 horikawa-hyakushu-000273	273			なつきくきいもかころもの色にさく若むらさきの池のふちなみ	
 horikawa-hyakushu-000274	274			みきはより底まて匂ふ藤の花いかなる雲のかけかみゆらん	
 horikawa-hyakushu-000275	275			打なひく風の気色はのとけきに花のうら葉にかゝる藤波	
-horikawa-hyakushu-000276	277			墨江の松にかゝれるふちの花風のたよりに波やおるらん	
-horikawa-hyakushu-000277	276			松陰のみとりをそめし池水にむらさきふかくかゝる藤波	
+horikawa-hyakushu-000276	276			墨江の松にかゝれるふちの花風のたよりに波やおるらん	
+horikawa-hyakushu-000277	277			松陰のみとりをそめし池水にむらさきふかくかゝる藤波	
 horikawa-hyakushu-000278	278			浜松のしつえにかゝる藤波はみる人さへそかへらさりける	
 horikawa-hyakushu-000279	279			紫のしき波よるとみゆるまて田子の浦藤花咲にけり	
 horikawa-hyakushu-000280	280			春きては心の松にかゝりつる藤の初花さきそめにけり	
