@@ -3,7 +3,7 @@
  "work_id": "horikawa-hyakushu",
  "repo": "kumoi-no-fumigura/horikawa-hyakushu",
  "yomi": "ほりかわひゃくしゅ",
- "category": "私撰集",
+ "category": "定数歌",
  "kind": "kashu",
  "description": {
   "kind": "定数歌（百首歌）",
@@ -35178,7 +35178,7 @@
   "work_id": "horikawa-hyakushu",
   "work": "堀河百首",
   "yomi": "ほりかわひゃくしゅ",
-  "category": "私撰集",
+  "category": "定数歌",
   "order": 0,
   "era": "平安時代",
   "author": "",
